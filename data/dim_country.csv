@@ -1,0 +1,173 @@
+country_id,ifc_country_code,country,wb_country_code
+1,CHD,Chad,TD
+2,PAR,Paraguay,PY
+3,,Central Europe Subregion,
+4,,North Africa and Horn of Africa Region,
+5,,Latin America and the Caribbean Region,
+6,,Europe Region,
+7,SEN,Senegal,SN
+8,,Cabo Verde,CV
+9,GUY,Guyana,GY
+10,WLD,World Region,99
+11,PHL,Philippines,PH
+12,,Eritrea,ER
+13,TNG,Tonga,TO
+14,DJI,Djibouti,DJ
+15,,Malaysia,MY
+16,SNG,Singapore,SG
+17,FIJ,Fiji,FJ
+18,MAL,Malawi,MW
+19,IRQ,Iraq,IQ
+20,COM,Comoros,KM
+21,KAM,Cambodia,KH
+22,AFG,Afghanistan,AF
+23,JOR,Jordan,JO
+24,RWA,Rwanda,RW
+25,,Maldives,MV
+26,,France,FR
+27,,Greece,GR
+28,XKS,Kosovo,XK
+29,SRI,Sri Lanka,LK
+30,ZAI,"Congo, Democratic Republic of",ZR
+31,TOG,Togo,TG
+32,ALG,Algeria,DZ
+33,EAP,East Asia and Pacific Region,EAP
+34,ARG,Argentina,AR
+35,ANG,Angola,AO
+36,,Central Asia and Turkiye Region,
+37,ECU,Ecuador,EC
+38,MAG,Madagascar,MG
+39,ALB,Albania,AL
+40,GHA,Ghana,GH
+41,NIC,Nicaragua,NI
+42,BUA,Myanmar,MM
+43,PER,Peru,PE
+44,BEN,Benin,BJ
+45,SIL,Sierra Leone,SL
+46,,Southern Africa Region,
+47,STL,St. Lucia,LC
+48,IND,India,IN
+49,CHA,China,CN
+50,COB,"Congo, Republic of",CG
+51,BLR,Belarus,BY
+52,TMP,Timor-Leste,TP
+53,,Kuwait,KW
+54,STP,Sao Tome and Principe,ST
+55,,Marshall Islands,MH
+56,TJK,Tajikistan,TJ
+57,,Chile,CL
+58,HRV,Croatia,HR
+59,BUI,Burundi,BI
+60,NIR,Nigeria,NG
+61,BOL,Bolivia,BO
+62,,"Venezuela, Republica Bolivariana de",VE
+63,,Gabon,GA
+64,,Unknown,
+65,,Suriname,SR
+66,,Lithuania,LT
+67,,"Cen Afr, and Anglophne W Africa Region",
+68,MTA,Mauritania,MR
+69,,Czechia,
+70,CAR,Central African Republic,CF
+71,BAN,Bangladesh,BD
+72,BAR,Barbados,BB
+73,RUS,Russian Federation,RU
+74,,Central America Subregion,
+75,,Ireland,IE
+76,,"Gambia, The",GM
+77,,Southeast Asia Subregion,
+78,THL,Thailand,TH
+79,BHU,Bhutan,BT
+80,MYC,Morocco,MA
+81,PAN,Panama,PA
+82,UKR,Ukraine,UA
+83,IVC,Cote D'Ivoire,CI
+84,,Israel,IL
+85,OMA,Oman,OM
+86,,Uruguay,UY
+87,MXC,Mexico,MX
+88,WAN,Western Africa Region,45
+89,GEO,Georgia,GE
+90,MNE,Montenegro,ME
+91,,Estonia,EE
+92,ZIM,Zimbabwe,ZW
+93,INS,Indonesia,ID
+94,,Federal Republic of Somalia,
+95,GUA,Guatemala,GT
+96,MNG,Mongolia,MN
+97,YAR,"Yemen, Republic of",RY
+98,AZE,Azerbaijan,AZ
+99,,Grenada,GD
+100,,Caribbean Subregion,
+101,ARM,Armenia,AM
+102,TUN,Tunisia,TN
+103,LIB,Liberia,LR
+104,HDS,Honduras,HN
+105,TRI,Trinidad and Tobago,TT
+106,SAR,Saudi Arabia,SA
+107,UAN,Uganda,UG
+108,,Namibia,
+109,,Switzerland,CH
+110,ZAM,Zambia,ZM
+111,AFR,Africa Region,3A
+112,ETH,Ethiopia,ET
+113,,Turkiye,TR
+114,JAM,Jamaica,JM
+115,,Eswatini,SZ
+116,,Latvia,LV
+117,,Southern Europe Subregion,
+118,UAE,United Arab Emirates,AE
+119,SSD,South Sudan,SS
+120,GUI,Guinea,GN
+121,HKG,"Hong Kong SAR, China",HK
+122,,Seychelles,SC
+123,UZB,Uzbekistan,UZ
+124,,North Macedonia,MK
+125,WSM,Samoa,WS
+126,MOZ,Mozambique,MZ
+127,KGZ,Kyrgyz Republic,KG
+128,BRA,Brazil,BR
+129,,Belize,BZ
+130,KEN,Kenya,KE
+131,XOT,West Bank and Gaza,GZ
+132,,"Middle East, Pakistan, and Afg Region",
+133,LEB,Lebanon,LB
+134,LAO,Lao People's Democratic Republic,LA
+135,,Antigua and Barbuda,AG
+136,VNM,Viet Nam,VN
+137,DOM,Dominican Republic,DO
+138,TAN,Tanzania,TZ
+139,BOT,Botswana,BW
+140,,South Asia Region,
+141,BIH,Bosnia and Herzegovina,BA
+142,HAI,Haiti,HT
+143,POL,Poland,PL
+144,CAM,Cameroon,CM
+145,PAP,Papua New Guinea,PG
+146,ROM,Romania,RO
+147,GUB,Guinea-Bissau,GW
+148,BUL,Bulgaria,BG
+149,SLI,Solomon Islands,SB
+150,NEP,Nepal,NP
+151,EGT,"Egypt, Arab Republic of",EG
+152,KAZ,Kazakhstan,KZ
+153,COS,Costa Rica,CR
+154,ESL,El Salvador,SV
+155,,Country Name Pending,
+156,SRB,Serbia,YF
+157,SOU,South Africa,ZA
+158,BUR,Burkina Faso,BF
+159,,Bahrain,BH
+160,CLM,Colombia,CO
+161,HUN,Hungary,HU
+162,PAK,Pakistan,PK
+163,VAN,Vanuatu,VU
+164,,"Iran, Islamic Republic of",IR
+165,EAN,Eastern Africa Region,29
+166,MTS,Mauritius,MU
+167,MDA,Moldova,MD
+168,,Syrian Arab Republic,SY
+169,,"Korea, Republic of",KR
+170,MLI,Mali,ML
+171,,Netherlands,NL
+172,,Eastern Europe Subregion,
