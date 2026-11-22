@@ -1,6 +1,6 @@
 # IFC Investment Services Projects: Portfolio Analytics
 
-Python cleaning pipeline + Power BI-ready star schema + interactive dashboard, built on real, public IFC (International Finance Corporation) disclosure data.
+I cleaned 7,083 IFC disclosures covering 172 countries to explore investment instruments, industries, and geography. The fact table has one row per disclosure. Some project IDs appear at more than one disclosure stage.
 
 ## Dataset
 
